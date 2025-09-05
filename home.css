@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.top-head {
+    /* background-color: rgb(130, 24, 24); */
+    position: fixed;
+}
